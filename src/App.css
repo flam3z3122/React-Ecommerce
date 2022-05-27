@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.nav-link{
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+
+}
+
+.nav-item{
+  margin-left: 200px;
+}
+
+.home-container{
+  display: flex;
+
+}
+
+.card{
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 50px;
+  margin-right: 40px;
+  margin-top: 5%;
+}
